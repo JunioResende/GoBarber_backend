@@ -17,13 +17,13 @@
     "emitDecoratorMetadata": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "baseUrl": ".",
-    "paths": {
-      "@Routes/*": ["./src/Routes/*"],
-      "@Entities/*": ["./src/Entities/*"],
-      "@Repositories/*": ["./src/Repositories/*"],
-      "@Services/*": ["./src/Services/*"],
-      "@Config/*": ["./src/Config/*"]
-    }
+    // "baseUrl": "./",
+    // "paths": {
+    //   "@routes/*": ["src/routes/*"],
+    //   "@entities/*": ["./src/entities/*"],
+    //   "@repositories/*": ["./src/repositories/*"],
+    //   "@services/*": ["./src/services/*"],
+    //   "@config/*": ["./src/config/*"]
+    // }
   }
 }
