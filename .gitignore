@@ -4,3 +4,6 @@ node_modules
 dist
 #ignore .vscode
 .vscode
+#ignore tmp
+tmp/*
+!tmp/.gitkeep
